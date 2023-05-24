@@ -1,1 +1,0 @@
-print("ATTENTION AU VIRUS")
